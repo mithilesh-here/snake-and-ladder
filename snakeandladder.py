@@ -1,8 +1,4 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Wed Oct 23 16:36:30 2019
-@author: ARVIND KRISHNA
-"""
 import random
 import sys
 """A program which will simulate rolling of a die and moves of a pawn in snake and ladders.
